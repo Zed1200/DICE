@@ -1,0 +1,15 @@
+Program powstał przy nauce programowania obiektowego w C# (pierwsze kroki). DICE jest "symulatorem" rzutów kostką do gry.
+Oferuje on wybór ilości graczy, ilość kości do gry oraz dowolną liczbę ścianek kostki, oraz zapis do pliku txt historii wraz z czasem rzutów kośćmi i zapis ustawień programu.
+
+Pytania i sugestie: zed1200@interia.pl
+Zaglądajcie na: https://github.com/Zed1200
+
+Tłumaczenie na angielski google translator
+
+The program was created while learning object-oriented programming in C # (first steps). DICE is a "simulator" of throwing the dice.
+It offers a choice of the number of players, the number of dice and any number of dice faces, as well as a history txt file with the dice roll time and program settings.
+
+Questions and suggestions: zed1200@interia.pl
+Stay tuned: https://github.com/Zed1200
+
+Translation into english google translator

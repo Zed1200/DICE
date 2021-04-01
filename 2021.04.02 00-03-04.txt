@@ -1,0 +1,64 @@
+
+Numer tury gry: 1
+Numer Gracza: 1
+
+2021.04.02 00:03:04
+
+Kostka nr 1 wynik: 1
+
+
+Numer tury gry: 1
+Numer Gracza: 2
+
+2021.04.02 00:03:06
+
+Kostka nr 1 wynik: 4
+
+
+Numer tury gry: 2
+Numer Gracza: 1
+
+2021.04.02 00:03:17
+
+Kostka nr 1 wynik: 6
+
+
+Numer tury gry: 2
+Numer Gracza: 2
+
+2021.04.02 00:03:19
+
+Kostka nr 1 wynik: 2
+
+
+Numer tury gry: 3
+Numer Gracza: 1
+
+2021.04.02 00:03:21
+
+Kostka nr 1 wynik: 4
+
+
+Numer tury gry: 3
+Numer Gracza: 2
+
+2021.04.02 00:03:22
+
+Kostka nr 1 wynik: 3
+
+
+Numer tury gry: 4
+Numer Gracza: 1
+
+2021.04.02 00:03:23
+
+Kostka nr 1 wynik: 4
+
+
+Numer tury gry: 4
+Numer Gracza: 2
+
+2021.04.02 00:03:23
+
+Kostka nr 1 wynik: 4
+
